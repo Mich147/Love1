@@ -8,7 +8,10 @@ body {
     align-items: center;
     height: 100vh;
     background-image: url("love.jpg");
+    background-position: center;
     background-repeat: no-repeat;
+   
+    
 }
 
 .container {
